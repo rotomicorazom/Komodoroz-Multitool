@@ -11,3 +11,6 @@ You just have to put the ID of your victim, AND ENJOY!
 
 https://user-images.githubusercontent.com/48841069/210609626-47361509-d691-450d-a71b-ecaa0f820507.mp4
 
+
+# Token Checker
+This tool checks the tokens that you enter in the .txt file saved in data/token_checker/tokens.txt, that's where you have to put the tokens to check them, the tokens are not included, this tool uses discord api to check tokens 
